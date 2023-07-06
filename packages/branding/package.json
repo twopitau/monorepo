@@ -1,0 +1,14 @@
+{
+  "name": "@twopitau/branding",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    "./tailwind.config.cjs": "./tailwind.config.cjs",
+    "./index.css": "./index.css",
+    ".": "./index.js"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}

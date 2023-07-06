@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "javascript.preferences.quoteStyle": "single",
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
